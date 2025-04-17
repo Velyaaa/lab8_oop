@@ -1,0 +1,14 @@
+D:\KPI\2sem\OP\lab8\lab8\bin\Debug\net9.0\lab8.exe
+D:\KPI\2sem\OP\lab8\lab8\bin\Debug\net9.0\lab8.deps.json
+D:\KPI\2sem\OP\lab8\lab8\bin\Debug\net9.0\lab8.runtimeconfig.json
+D:\KPI\2sem\OP\lab8\lab8\bin\Debug\net9.0\lab8.dll
+D:\KPI\2sem\OP\lab8\lab8\bin\Debug\net9.0\lab8.pdb
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\lab8.AssemblyInfoInputs.cache
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\lab8.AssemblyInfo.cs
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\lab8.csproj.CoreCompileInputs.cache
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\lab8.dll
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\refint\lab8.dll
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\lab8.pdb
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\lab8.genruntimeconfig.cache
+D:\KPI\2sem\OP\lab8\lab8\obj\Debug\net9.0\ref\lab8.dll
